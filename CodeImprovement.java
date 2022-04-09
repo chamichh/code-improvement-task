@@ -2,7 +2,7 @@ package practicals;
 
 import java.util.ArrayList;
 
-public class CodeImprovementTwo {
+public class CodeImprovement {
 
 	public static void main(String[] args) {
 		ArrayList<String> things = new ArrayList<String>();
